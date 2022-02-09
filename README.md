@@ -1,2 +1,7 @@
 # The-Movie-Database
-Conexion a API
+
+TMDB API Connection
+
+Conexion a API TMDB
+
+https://www.themoviedb.org/?language=es
